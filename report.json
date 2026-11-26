@@ -1,0 +1,19 @@
+{
+    "sender": "IT Support <support@example.com>",
+    "subject": "URGENT: Verify your account immediately",
+    "risk_score": 95,
+    "risk_level": "HIGH",
+    "findings": [
+        "Suspicious keyword detected: urgent",
+        "Suspicious keyword detected: verify your account",
+        "Suspicious keyword detected: click here",
+        "Suspicious keyword detected: unusual activity",
+        "Sender domain and Reply-To domain differ",
+        "URL does not use HTTPS: http://192.168.1.10/login",
+        "URL uses an IP address instead of a domain: http://192.168.1.10/login"
+    ],
+    "urls_found": [
+        "http://192.168.1.10/login"
+    ],
+    "attachments": []
+}

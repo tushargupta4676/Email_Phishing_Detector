@@ -1,0 +1,20 @@
+From: IT Support <support@example.com>
+To: employee@example.org
+Reply-To: security@different-domain.com
+Subject: URGENT: Verify your account immediately
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Employee,
+
+Your account has unusual activity.
+
+Your password has expired.
+Click here to verify your account:
+
+http://192.168.1.10/login
+
+Failure to act may result in account suspension.
+
+Regards,
+IT Support
